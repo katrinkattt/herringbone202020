@@ -1,2 +1,4 @@
 # herringbone202020
-on python
+
+flashing christmas tree on python
+мигающая елочка на python
