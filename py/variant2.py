@@ -17,4 +17,8 @@ while True:
         elif y % 3 == 0:
             print(Fore.GREEN + "{:^40}".format(txt1[:x]))
         else:
-            
+            print(Fore.WHITE + "{:^40}".format(txt1[:x]))
+    print(Fore.WHITE + "{:^40}".format("||||"))
+    print(Fore.WHITE + "{:^40}".format("||||"))
+    sleep(.50)
+
