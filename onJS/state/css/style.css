@@ -1,0 +1,11 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.verchina{
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid rgb(16, 73, 26);
+}
