@@ -1,8 +1,6 @@
 # herringbone202020
 
 flashing christmas tree:
-on python,
-on JavaScript.
+on python
 мигающая елочка:
-на python,
-на JavaScript.
+на python
